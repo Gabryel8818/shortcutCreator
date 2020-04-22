@@ -13,6 +13,6 @@
 <h4> Config </h4>
 
 <ul> 
-  <li> $ chmod +x main.sh <li>
-  <li> $ ./main.sh <li>
-<ul>
+  <li> $ chmod +x main.sh </li>
+  <li> $ ./main.sh </li>
+</ul>
