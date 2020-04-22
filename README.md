@@ -9,3 +9,9 @@
 <h4> Função </h4>
 
 1) Criação de atalhos de forma automatizada e com interface gráfica ^^
+
+<h4> Config </h4>
+```shell
+$ sudo chmod +x Main.sh
+$ ./main.sh
+```
